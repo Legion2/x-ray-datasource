@@ -1,0 +1,32 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "plugin": "grafana-x-ray-datasource",
+  "version": "1.0.0",
+  "files": {
+    "LICENSE": "b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1",
+    "README.md": "d5d82b11dddb907300f2b5641f731187a887f768de51b5ac15c01153cfacf685",
+    "gpx_x-ray-datasource_darwin_amd64": "3e8c84d9ec773793216b55d29790ab023008b6893c1251bca5842902f417afc6",
+    "gpx_x-ray-datasource_linux_amd64": "e90b6627b02edc943f283ae2ccaa21c4a0371eb6489919f215f3d251aa5c381b",
+    "gpx_x-ray-datasource_windows_amd64.exe": "bf9f3a97b51ab576f7c690c5c7776db597e4552aeacb6a8bcca001d2f651b762",
+    "index.html": "2fa2c4168c5bb7b8502989f437e4a1a71e663702b0ec9c01530215c8c026dcaf",
+    "module.js": "712075f9bf06ba580d25f8b60dac349b686f7fc489085377fc007396ebdd387d",
+    "module.js.LICENSE.txt": "0d8f66cd4afb566cb5b7e1540c68f43b939d3eba12ace290f18abc4f4cb53ed0",
+    "module.js.map": "ffa996bec9d086a85cb46e24ac6da48249d16480daf27e258843c7a5a329fa5e",
+    "plugin.json": "2d9d4ca0471b072d35ae2c5dacbc0f2966073eeb5ce9dfccd0989142f6ea2bfa"
+  },
+  "time": 1601395213286,
+  "keyId": "7e4d0c6a708866e7"
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.1
+Comment: https://openpgpjs.org
+
+wqAEARMKAAYFAl9zWg0ACgkQfk0ManCIZuej9AIHdflk/Im7TiJcExmFXZ0n
+L9xCiIdbJeWHsxMuQps9ald40nVEXc8UkNUM+clwkIL0m6ym0RyWdDwnEsdO
+xRB6R98CB0uhBIIJfy2KoPqCOPRxvrDJsdY1GbEAXyMkxiOYkeB4uxzmU5Av
+IsenxCesFt82X6jnYqNiUUwRhDoC9b/i5S2X
+=Ug80
+-----END PGP SIGNATURE-----

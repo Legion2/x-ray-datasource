@@ -14,7 +14,11 @@
       "name": "Grafana",
       "url": "grafana.com"
     },
-    "keywords": ["aws", "x-ray", "tracing"],
+    "keywords": [
+      "aws",
+      "x-ray",
+      "tracing"
+    ],
     "logos": {
       "small": "img/AWS-X-Ray.svg",
       "large": "img/AWS-X-Ray.svg"
@@ -31,7 +35,14 @@
     ],
     "screenshots": [],
     "version": "1.0.0",
-    "updated": "2020-09-29"
+    "updated": "2020-09-29",
+    "build": {
+      "time": 1601395212954,
+      "repo": "git@github.com:grafana/x-ray-datasource.git",
+      "branch": "v1.0.x",
+      "hash": "36f9a30d66e22a5cb0b4bf412c2a2c6c872a31f9",
+      "number": 602
+    }
   },
   "dependencies": {
     "grafanaDependency": ">=7.2.0",
